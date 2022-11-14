@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW Seattle",
+        "Population": 36206,
+        "gpa": 3.8
+      },
+      "geometry": {
+        "coordinates": [
+          -122.30372264494349,
+          47.65474645256458
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WSU",
+        "Population": 29686,
+        "gpa": 3.6
+      },
+      "geometry": {
+        "coordinates": [
+          -117.1465778101811,
+          46.73245079805267
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Western Washington University",
+        "Population": 16142,
+        "gpa": 3.46
+      },
+      "geometry": {
+        "coordinates": [
+          -122.4827306823307,
+          48.73302129251499
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Walla Walla University",
+        "Population": 18555,
+        "gpa": 3.53
+      },
+      "geometry": {
+        "coordinates": [
+          -118.39052545298125,
+          46.04707172984857
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whitman College",
+        "Population": 1559,
+        "gpa": 3.75
+      },
+      "geometry": {
+        "coordinates": [
+          -118.33809111882806,
+          46.06760152348318
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seattle University",
+        "Population": 7405,
+        "gpa": 3.62
+      },
+      "geometry": {
+        "coordinates": [
+          -122.31717552680277,
+          47.60863376065822
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Bastyr University",
+        "Population": 1018,
+        "gpa": 3.0
+      },
+      "geometry": {
+        "coordinates": [
+          -122.24969706614444,
+          47.73170644305708
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Central Washington University",
+        "Population": 11500,
+        "gpa": 2
+      },
+      "geometry": {
+        "coordinates": [
+          -120.53683768111574,
+          47.00549716560428
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "City University of Seattle",
+        "Population": 6372,
+        "gpa": 3.15
+      },
+      "geometry": {
+        "coordinates": [
+          -122.34444977368045,
+          47.61749996452966
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Cornish College of The Arts",
+        "Population": 482,
+        "gpa": 3.29
+      },
+      "geometry": {
+        "coordinates": [
+          -122.33631985762798,
+          47.61804679877119
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Eastern Washington University",
+        "Population": 13453,
+        "gpa": 3.21
+      },
+      "geometry": {
+        "coordinates": [
+          -117.58214332380726,
+          47.4912196326749
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Gonzaga University",
+        "Population": 7421,
+        "gpa": 3.78
+      },
+      "geometry": {
+        "coordinates": [
+          -117.40244559325382,
+          47.66721901331894
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Heritage University",
+        "Population": 1254,
+        "gpa": 3.15
+      },
+      "geometry": {
+        "coordinates": [
+          -120.39458617790987,
+          46.374276712678125
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Northwest Indian University",
+        "Population": 594,
+        "gpa": 3.41
+      },
+      "geometry": {
+        "coordinates": [
+          -122.61420840674535,
+          48.79427510166698
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Pacific Lutheran University",
+        "Population": 3100,
+        "gpa": 3.71
+      },
+      "geometry": {
+        "coordinates": [
+          -122.44244872347026,
+          47.14525312646106
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Saint Martin's University",
+        "Population": 1811,
+        "gpa": 3.4
+      },
+      "geometry": {
+        "coordinates": [
+          -122.81602386441779,
+          47.04037865575779
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Seattle Pacific University",
+        "Population": 3894,
+        "gpa": 3.51
+      },
+      "geometry": {
+        "coordinates": [
+          -122.3628007394184,
+          47.64945788618181
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "The Evergreen State College",
+        "Population": 3907,
+        "gpa": 3.05
+      },
+      "geometry": {
+        "coordinates": [
+          -122.97531836441814,
+          47.073390267483205
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "University of Puget Sound",
+        "Population": 2130,
+        "gpa": 3.5
+      },
+      "geometry": {
+        "coordinates": [
+          -122.48202790674611,
+          47.262937421445685
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW Bothell",
+        "Population": 5995,
+        "gpa": 3.4
+      },
+      "geometry": {
+        "coordinates": [
+          -122.19105372023773,
+          47.75921310621854
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "UW Tacoma",
+        "Population": 5216,
+        "gpa": 3.29
+      },
+      "geometry": {
+        "coordinates": [
+          -122.43777832209022,
+          47.245011925143274
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WSU Tri-Cities",
+        "Population": 1716,
+        "gpa": 3.2
+      },
+      "geometry": {
+        "coordinates": [
+          -119.2634566201216,
+          46.33026079133782
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "WSU Vancouver",
+        "Population": 3233,
+        "gpa": 3.46
+      },
+      "geometry": {
+        "coordinates": [
+          -122.63591217791046,
+          45.73005965784321
+        ],
+        "type": "Point"
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Whitworth University",
+        "Population": 2307,
+        "gpa": 3.63
+      },
+      "geometry": {
+        "coordinates": [
+          -117.4163892193663,
+          47.753181781160436
+        ],
+        "type": "Point"
+      }
+    }
+  ]
+}
