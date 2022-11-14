@@ -7,11 +7,6 @@
     <link href="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.css" rel="stylesheet">
     <script src="https://api.mapbox.com/mapbox-gl-js/v2.5.0/mapbox-gl.js"></script>
     <style>
-     @media screen and (max-width: 1024px) {
-            .yourClass {
-            display: none !important;
-            }
-    }
     body {
         margin: 0;
         padding: 0;
@@ -27,6 +22,11 @@
         height: 100vh;
         flex-direction: row;
         align-items: stretch;
+          @media screen and (max-width: 1024px) {
+            .yourClass {
+            display: none !important;
+            }
+    }
     }
 
 
